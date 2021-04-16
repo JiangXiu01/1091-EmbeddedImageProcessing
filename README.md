@@ -15,10 +15,10 @@
     3. Sobel測試程式與圖檔
   
 (二)Homework2:  
-    1. 以LBP抓馬路
+    1. 圖像跑LBP
 
 (三)Homework3:  
-    1. 需求分析與程式方塊圖繪製
+    1. 手動畫Marker，並貼在ptt上，必須包含演算法。
 
 (四)Homework4:  
-    1. 程式實作
+    1. 自動畫Marker (K-means、knn..)，並貼在ptt上，必須包含演算法。
