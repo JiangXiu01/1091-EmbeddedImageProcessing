@@ -18,7 +18,12 @@
     1. 圖像跑LBP
 
 (三)Homework3:  
-    1. 手動畫Marker，並貼在ptt上，必須包含演算法。
+    1. 手動畫Marker並抓出道路，並貼在ptt上，必須包含演算法。
 
 (四)Homework4:  
     1. 自動畫Marker (K-means、knn..)，並貼在ptt上，必須包含演算法。
+
+
+期末報告:
+	1. PPT URL: https://drive.google.com/file/d/1VLaTibSp3Q2KWDw67WtcEpPhf5M3d7Ir/view?usp=sharing
+	
